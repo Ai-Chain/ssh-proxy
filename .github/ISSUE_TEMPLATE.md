@@ -13,4 +13,4 @@ For general usage questions, please consider posting on Stack Overflow or Gitter
 - Image version <!-- Docker image label -->: 
 - Docker version <!-- run `docker version` on host machine -->: 
 - Host Machine OS (Windows/Linux/Mac): 
-- Command used to start the ssh-proxy <!-- e.g. `docker run -p 22 mltooling/ssh-proxy:latest` -->:
+- Command used to start the ssh-proxy <!-- e.g. `docker run -p 22 aichain/ssh-proxy:latest` -->:
